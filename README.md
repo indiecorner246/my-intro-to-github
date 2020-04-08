@@ -1,2 +1,2 @@
 # my-intro-to-github
-My introduction to GitHub
+An edit to my introduction to GitHub.
